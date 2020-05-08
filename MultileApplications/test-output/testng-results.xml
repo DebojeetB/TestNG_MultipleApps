@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81400" started-at="2020-05-08T18:17:59 IST" finished-at="2020-05-08T18:19:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81400" started-at="2020-05-08T18:17:59 IST" finished-at="2020-05-08T18:19:20 IST">
+      <class name="testApplications.TC_AmazonMusic">
+        <test-method status="PASS" signature="automateAmazonMusic()[pri:0, instance:testApplications.TC_AmazonMusic@3b088d51]" name="automateAmazonMusic" duration-ms="81344" started-at="2020-05-08T18:17:59 IST" finished-at="2020-05-08T18:19:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automateAmazonMusic -->
+      </class> <!-- testApplications.TC_AmazonMusic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
